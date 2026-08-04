@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="[https://flagyard.com/](https://flagyard.com/profile/70b0ad55-56d9-4d26-86f5-64182a740d2b)">
+<a href="https://flagyard.com/profile/70b0ad55-56d9-4d26-86f5-64182a740d2b">
     <img src="https://img.shields.io/badge/Flagyard-Visit-red?style=for-the-badge&logo=hackthebox">
 </a>
 
