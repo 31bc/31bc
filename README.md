@@ -1,7 +1,7 @@
 # Shadow 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/31bc/31bc/blob/main/208593.gif">
 </div>
 <h1 align="center">
   My Closest Friends {GOLEM}
