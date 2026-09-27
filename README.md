@@ -28,6 +28,11 @@
   <img src="./profile/top-langs.svg" alt="Top languages">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/public-repos/31bc?style=flat-square&label=Public%20Repos&color=161b22&labelColor=8b949e&logo=github&logoColor=8b949e" alt="Public repositories">
+  <img src="https://img.shields.io/github/followers/31bc?style=flat-square&label=Followers&color=161b22&labelColor=8b949e&logo=github&logoColor=8b949e" alt="Followers">
+</p>
+
 ---
 
 ## Contribution Activity
@@ -125,19 +130,6 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar" width="95%">
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub trophies" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/public-repos/31bc?style=flat-square&label=Public%20Repos&color=161b22&labelColor=8b949e&logo=github&logoColor=8b949e" alt="Public repositories">
-  <img src="https://img.shields.io/github/followers/31bc?style=flat-square&label=Followers&color=161b22&labelColor=8b949e&logo=github&logoColor=8b949e" alt="Followers">
 </p>
 
 ---

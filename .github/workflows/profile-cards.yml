@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=github_dark&show_icons=true&include_all_commits=true&custom_title=Mr.shadow%27s%20GitHub%20Stats&show=prs_reviewed&hide=contributed&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=f0f6fc&label_color=8b949e&border_color=30363d
+          options: username=${{ github.repository_owner }}&theme=github_dark&show_icons=true&include_all_commits=true&custom_title=Mr.shadow%27s%20GitHub%20Stats&show=prs_reviewed&hide=contribs&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=f0f6fc&label_color=8b949e&border_color=30363d
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,14 +46,6 @@ jobs:
           username: ${{ github.repository_owner }}
           options: bg_color=0d1117&border_color=30363d&custom_title=Contribution%20Activity&title_color=58a6ff&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&radius=8&height=300
           output_path: profile/activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate trophy card
-        continue-on-error: true
-        uses: soulteary/github-profile-trophy-action@v1
-        with:
-          options: username=${{ github.repository_owner }}&theme=onedark&row=1&column=7
-          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
