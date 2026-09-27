@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="110" viewBox="0 0 480 110" role="img" aria-label="Shadow 31bc">
+  <title>Shadow 31bc</title>
+  <style>
+    .name {
+      font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+      font-size: 46px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-anchor: middle;
+      fill: #ff4d4d;
+    }
+    .name-a { animation: fade-a 4s ease-in-out infinite; }
+    .name-b { animation: fade-b 4s ease-in-out infinite; }
+    @keyframes fade-a {
+      0%, 42.5% { opacity: 1; }
+      50%, 92.5% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes fade-b {
+      0%, 42.5% { opacity: 0; }
+      50%, 92.5% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .name-a { animation: none; opacity: 1; }
+      .name-b { animation: none; opacity: 0; }
+    }
+  </style>
+  <rect x="90" y="25" width="300" height="60" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text class="name name-a" x="240" y="70">Shadow</text>
+  <text class="name name-b" x="240" y="70">31bc</text>
+</svg>

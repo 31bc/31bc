@@ -4,6 +4,8 @@
 
 ### Software tools · Reverse engineering · Security development
 
+<img src="./animated-name.svg" alt="Shadow 31bc" width="420">
+
 </div>
 
 <p align="center">
