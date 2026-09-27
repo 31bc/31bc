@@ -9,16 +9,20 @@
       text-anchor: middle;
       fill: #ff4d4d;
     }
-    .name-a { animation: fade-a 4s ease-in-out infinite; }
-    .name-b { animation: fade-b 4s ease-in-out infinite; }
+    .name-a { animation: fade-a 6s ease-in-out infinite; }
+    .name-b { animation: fade-b 6s ease-in-out infinite; }
     @keyframes fade-a {
-      0%, 42.5% { opacity: 1; }
-      50%, 92.5% { opacity: 0; }
-      100% { opacity: 1; }
+      0% { opacity: 0; }
+      8.33% { opacity: 1; }
+      41.67% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 0; }
     }
     @keyframes fade-b {
-      0%, 42.5% { opacity: 0; }
-      50%, 92.5% { opacity: 1; }
+      0% { opacity: 0; }
+      50% { opacity: 0; }
+      58.33% { opacity: 1; }
+      91.67% { opacity: 1; }
       100% { opacity: 0; }
     }
     @media (prefers-reduced-motion: reduce) {
