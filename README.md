@@ -1,39 +1,8 @@
 <div align="center">
 
-<h2 id="name"></h2>
-
-<style>
-  #name {
-    color: red;
-    font-size: 28px;
-    font-weight: bold;
-    transition: opacity 0.4s ease;
-  }
-</style>
-
-<script>
-  const names = ["Shadow", "31bc"];
-  let index = 0;
-
-  function changeName() {
-    const name = document.getElementById("name");
-
-    name.style.opacity = "0";
-
-    setTimeout(() => {
-      name.textContent = names[index];
-      index = (index + 1) % names.length;
-      name.style.opacity = "1";
-    }, 400);
-  }
-
-  changeName();
-  setInterval(changeName, 2000);
-</script>
+<img src="./animated-name.svg" alt="Shadow 31bc" width="420">
 
 ### Software tools · Reverse engineering · Security development
-
-<img src="./animated-name.svg" alt="Shadow 31bc" width="420">
 
 </div>
 
