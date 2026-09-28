@@ -1,6 +1,8 @@
 <div align="center">
 
-
+<div align="center">
+  <img src="./profile/name.svg" width="250">
+</div>
 
 <br><br>
 
