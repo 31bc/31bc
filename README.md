@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/name.svg" alt="Shadow 31bc" width="480">
+
 
 <br><br>
 
