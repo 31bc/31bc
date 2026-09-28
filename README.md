@@ -64,35 +64,30 @@
       <sub>Portable Windows CLI for static analysis, PE and .NET inspection, decompilation and unpacking of Python packed programs.</sub><br>
       <sub><code>Python</code> &nbsp;·&nbsp; ★ 1</sub>
     </td>
-
     <td width="50%" valign="top">
       <a href="https://github.com/31bc/HELL-Nuke"><b>HELL-Nuke</b></a><br>
       <sub>HELL Nuke is a C#/.NET Discord automation toolkit built with Discord.NET. It features an interactive CLI, JSON configuration, asynchronous task processing, batch operations, progress tracking, and Discord API integration - designed for development, administration, and authorized testing environments.</sub><br>
       <sub><code>C#</code> &nbsp;·&nbsp; ★ 2</sub>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/31bc/Cheat-Engine"><b>Cheat-Engine</b></a><br>
       <sub>HELL STORM - Open-source analysis tool for studying competitive game mechanics in isolated test environments. Provides real-time memory reading, advanced data visualization, and interactive simulation to understand system responses. Designed for researchers and developers exploring security boundaries and improving defensive mechanisms.</sub><br>
       <sub><code>Pascal</code> &nbsp;·&nbsp; ★ 1</sub>
     </td>
-
     <td width="50%" valign="top">
       <a href="https://github.com/31bc/Lock-file"><b>Lock-file</b></a><br>
       <sub>A C# .NET 9 secure file archive system with encryption, compression, and custom .Shadow format. This is an open-source project.</sub><br>
       <sub><code>C#</code> &nbsp;·&nbsp; ★ 1</sub>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/31bc/alpha-C2"><b>alpha-C2</b></a><br>
       <sub>Alpha C2 - an open-source command-and-control platform built for speed, simplicity, and total capability. One lightweight Go agent runs on Windows, Linux, and macOS with no installation, connecting to a modern web dashboard over a single encrypted channel.</sub><br>
       <sub><code>Go</code> &nbsp;·&nbsp; ★ 1</sub>
     </td>
-
     <td width="50%" valign="top">
       <a href="https://github.com/31bc?tab=repositories"><b>All repositories</b></a><br>
       <sub>Browse the full list of public repositories.</sub><br>
