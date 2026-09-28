@@ -1,1 +1,90 @@
+```svg
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="480"
+     height="100"
+     viewBox="0 0 480 100"
+     role="img"
+     aria-label="Shadow 31bc">
 
+  <title>Shadow 31bc</title>
+
+  <style>
+    .name {
+      font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+      font-size: 46px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-anchor: middle;
+      fill: #ff3333;
+    }
+
+    .shadow {
+      animation: shadow 6s ease-in-out infinite;
+    }
+
+    .username {
+      animation: username 6s ease-in-out infinite;
+    }
+
+    @keyframes shadow {
+      0% {
+        opacity: 0;
+      }
+
+      10% {
+        opacity: 1;
+      }
+
+      40% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0;
+      }
+
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes username {
+      0% {
+        opacity: 0;
+      }
+
+      50% {
+        opacity: 0;
+      }
+
+      60% {
+        opacity: 1;
+      }
+
+      90% {
+        opacity: 1;
+      }
+
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .shadow {
+        animation: none;
+        opacity: 1;
+      }
+
+      .username {
+        animation: none;
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <text class="name shadow" x="240" y="62">Shadow</text>
+  <text class="name username" x="240" y="62">31bc</text>
+
+</svg>
+```
