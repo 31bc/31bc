@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./animated-name.svg" alt="Shadow 31bc" width="420">
+
 
 ### Software tools · Reverse engineering · Security development
 
