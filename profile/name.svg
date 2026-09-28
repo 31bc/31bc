@@ -1,1 +1,11 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="55">
+<style>
+text{font:700 32px Arial;fill:#ff3333;text-anchor:middle}
+.a{animation:a 4s infinite}.b{animation:b 4s infinite}
+@keyframes a{0%,45%{opacity:1}50%,100%{opacity:0}}
+@keyframes b{0%,50%{opacity:0}55%,95%{opacity:1}100%{opacity:0}}
+</style>
+<text class="a" x="125" y="38">Shadow</text>
+<text class="b" x="125" y="38">31bc</text>
+</svg>
